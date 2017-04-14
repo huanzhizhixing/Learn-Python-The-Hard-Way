@@ -1,5 +1,5 @@
-# Learn-Python-The-Hard-Way
-
+# Learn-Python-The-Hard-Way + 利用python进行数据分析
+# LPTHW标注为ex，数据分析标注为sj
 """
 一点一滴，夯实python基础。
 总结错误，失败为成功之母。
